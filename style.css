@@ -453,7 +453,9 @@ header nav a:hover {
 .btn-secondary:hover {
     background-color: var(--border-color);
     color: #f0f6fc;
+
     box-shadow: none;
+
 }
 
 /* تحسين تجاوب الأزرار على الشاشات الصغيرة */
